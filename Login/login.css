@@ -1,0 +1,30 @@
+
+.main-panel{
+
+	width: 400px;
+	height: 300px;	
+	position: absolute;
+	top:0;
+	bottom: 45%;
+	left: 0;
+	right: 8%;
+  	
+	margin:auto;
+	
+}
+h1{
+	text-align: center;
+}
+
+.sub-panel{
+	margin-top:5px;
+}
+.user-panel{
+margin: 10px;
+}
+.pass-panel{
+margin: 10px;
+}
+.panel-button{
+margin: 10px;
+}
